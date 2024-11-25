@@ -109,7 +109,7 @@ class Buy extends StatelessWidget {
                               ),
                               child: Text(
                                 "10%",
-                                style: TextStyle(color: Colors.black, fontSize: 13),
+                                style: TextStyle(color: Colors.black),
                               ),
                             ),
                           ),
@@ -125,7 +125,7 @@ class Buy extends StatelessWidget {
                               ),
                               child: Text(
                                 "25%",
-                                style: TextStyle(color: Colors.black, fontSize: 13),
+                                style: TextStyle(color: Colors.black),
                               ),
                             ),
                           ),
@@ -141,7 +141,7 @@ class Buy extends StatelessWidget {
                               ),
                               child: Text(
                                 "50%",
-                                style: TextStyle(color: Colors.black, fontSize: 13),
+                                style: TextStyle(color: Colors.black),
                               ),
                             ),
                           ),
@@ -157,7 +157,7 @@ class Buy extends StatelessWidget {
                               ),
                               child: Text(
                                 "최대",
-                                style: TextStyle(color: Colors.black, fontSize: 13),
+                                style: TextStyle(color: Colors.black),
                               ),
                             ),
                           ),
